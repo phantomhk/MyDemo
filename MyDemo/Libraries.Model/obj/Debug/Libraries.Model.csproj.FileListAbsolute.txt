@@ -1,0 +1,9 @@
+J:\个人demo\MyDemo\Libraries.Model\bin\Debug\Libraries.Model.dll
+J:\个人demo\MyDemo\Libraries.Model\bin\Debug\Libraries.Model.pdb
+J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csprojAssemblyReference.cache
+J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.dll
+J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.pdb
+J:\个人demo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.dll
+J:\个人demo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.pdb
+J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csproj.CopyComplete

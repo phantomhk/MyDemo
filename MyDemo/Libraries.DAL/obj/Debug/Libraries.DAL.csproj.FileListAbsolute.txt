@@ -1,0 +1,13 @@
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.DAL.dll
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.DAL.pdb
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.IDAL.dll
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.Model.dll
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\ProjectK.Framework.dll
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.IDAL.pdb
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\Libraries.Model.pdb
+J:\个人demo\MyDemo\Libraries.DAL\bin\Debug\ProjectK.Framework.pdb
+J:\个人demo\MyDemo\Libraries.DAL\obj\Debug\Libraries.DAL.csprojAssemblyReference.cache
+J:\个人demo\MyDemo\Libraries.DAL\obj\Debug\Libraries.DAL.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\Libraries.DAL\obj\Debug\Libraries.DAL.csproj.CopyComplete
+J:\个人demo\MyDemo\Libraries.DAL\obj\Debug\Libraries.DAL.dll
+J:\个人demo\MyDemo\Libraries.DAL\obj\Debug\Libraries.DAL.pdb

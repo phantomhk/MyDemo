@@ -1,0 +1,11 @@
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSuanFa.resources
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+J:\个人demo\MyDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+J:\个人demo\MyDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+J:\个人demo\MyDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+J:\个人demo\MyDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

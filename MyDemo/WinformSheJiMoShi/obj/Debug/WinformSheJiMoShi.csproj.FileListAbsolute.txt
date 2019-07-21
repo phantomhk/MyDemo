@@ -1,0 +1,9 @@
+J:\个人demo\MyDemo\WinformSheJiMoShi\bin\Debug\WinformSheJiMoShi.exe.config
+J:\个人demo\MyDemo\WinformSheJiMoShi\bin\Debug\WinformSheJiMoShi.exe
+J:\个人demo\MyDemo\WinformSheJiMoShi\bin\Debug\WinformSheJiMoShi.pdb
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.Properties.Resources.resources
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.策略模式.Form1.resources
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.csproj.GenerateResource.Cache
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.exe
+J:\个人demo\MyDemo\WinformSheJiMoShi\obj\Debug\WinformSheJiMoShi.pdb

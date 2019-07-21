@@ -1,0 +1,7 @@
+J:\个人demo\MyDemo\MyDemo.DB.MySql\obj\Debug\MyDemo.DB.MySql.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\MyDemo.DB.MySql\obj\Debug\MyDemo.DB.MySql.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.MySql.dll
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.MySql.pdb
+J:\个人demo\MyDemo\MyDemo.DB.MySql\obj\Debug\MyDemo.DB.MySql.csproj.CopyComplete
+J:\个人demo\MyDemo\MyDemo.DB.MySql\obj\Debug\MyDemo.DB.MySql.dll
+J:\个人demo\MyDemo\MyDemo.DB.MySql\obj\Debug\MyDemo.DB.MySql.pdb

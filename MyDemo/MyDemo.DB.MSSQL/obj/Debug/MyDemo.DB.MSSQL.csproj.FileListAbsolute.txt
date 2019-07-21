@@ -1,0 +1,7 @@
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.MSSQL.dll
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.MSSQL.pdb
+J:\个人demo\MyDemo\MyDemo.DB.MSSQL\obj\Debug\MyDemo.DB.MSSQL.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\MyDemo.DB.MSSQL\obj\Debug\MyDemo.DB.MSSQL.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\MyDemo.DB.MSSQL\obj\Debug\MyDemo.DB.MSSQL.csproj.CopyComplete
+J:\个人demo\MyDemo\MyDemo.DB.MSSQL\obj\Debug\MyDemo.DB.MSSQL.dll
+J:\个人demo\MyDemo\MyDemo.DB.MSSQL\obj\Debug\MyDemo.DB.MSSQL.pdb
