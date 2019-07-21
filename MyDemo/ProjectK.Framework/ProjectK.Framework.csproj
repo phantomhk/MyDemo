@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AttributeExtend\Validate\AbstractValidateAttribute.cs" />
     <Compile Include="AttributeExtend\AttributeHelper.cs" />
     <Compile Include="AttributeExtend\ColumnAttribute.cs" />
+    <Compile Include="AttributeExtend\Validate\EmailAttribute.cs" />
+    <Compile Include="AttributeExtend\Validate\LengthAttribute.cs" />
+    <Compile Include="AttributeExtend\Validate\LongAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticConstant.cs" />
   </ItemGroup>

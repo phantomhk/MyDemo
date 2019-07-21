@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Libraries.Factory;
 using Libraries.IDAL;
 using Libraries.Model;
+using ProjectK.Framework.AttributeExtend;
 
 namespace Libraries.Project
 {
@@ -18,14 +19,14 @@ namespace Libraries.Project
                 Console.WriteLine("this is homework");
 
                 //Company comp = new DALBase().Find<Company>(1);
-                IDALBase iDal = DALFactory.CreateInstance();
-                List<User> listUser = iDal.FindAll<User>();
+                //IDALBase iDal = DALFactory.CreateInstance();
+                //List<User> listUser = iDal.FindAll<User>();
 
-                Company comp = new Company();
-                comp.Id = 4;
-                comp.Name = "路虎";
-                comp.CreateTime = DateTime.Now;
-                comp.LastModifyTime = DateTime.Now;
+                //Company comp = new Company();
+                //comp.Id = 4;
+                //comp.Name = "路虎";
+                //comp.CreateTime = DateTime.Now;
+                //comp.LastModifyTime = DateTime.Now;
 
 
                 //Company comp1 = new Company();
@@ -34,8 +35,15 @@ namespace Libraries.Project
                 //comp.CreateTime = DateTime.Now;
                 //comp.LastModifyTime = DateTime.Now;
 
-                iDal.Update<Company>(comp);
+                //iDal.Update<Company>(comp);
 
+                {
+                    User u = new User();
+                    u.Name = "123";
+                    u.Account = "99";
+
+                  bool isPass=  u.Validate<User>();
+                }
 
             }
             catch (Exception ex)

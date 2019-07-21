@@ -9,3 +9,14 @@ J:\个人demo\MyDemo\Libraries.IDAL\bin\Debug\ProjectK.Framework.dll
 J:\个人demo\MyDemo\Libraries.IDAL\bin\Debug\Libraries.Model.pdb
 J:\个人demo\MyDemo\Libraries.IDAL\bin\Debug\ProjectK.Framework.pdb
 J:\个人demo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.csproj.CopyComplete
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\Libraries.IDAL.dll
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\Libraries.IDAL.pdb
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\Libraries.Model.dll
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\ProjectK.Framework.dll
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\Libraries.Model.pdb
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\bin\Debug\ProjectK.Framework.pdb
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.csprojAssemblyReference.cache
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.csproj.CoreCompileInputs.cache
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.csproj.CopyComplete
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.dll
+J:\Git\MyDemo\MyDemo\Libraries.IDAL\obj\Debug\Libraries.IDAL.pdb

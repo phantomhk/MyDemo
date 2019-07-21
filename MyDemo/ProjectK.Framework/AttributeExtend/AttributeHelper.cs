@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjectK.Framework.AttributeExtend
 {
-   public static class AttributeHelper
+    public static class AttributeHelper
     {
         /// <summary>
         /// 获取属性column名称
@@ -24,7 +24,30 @@ namespace ProjectK.Framework.AttributeExtend
             else
             {
                 return prop.Name
-;            }
+;
+            }
+        }
+
+
+        public static bool Validate<T>(this T tModel)
+        {
+            Type type = typeof(T);
+            foreach (var prop in type.GetProperties())
+            {
+                if (prop.IsDefined(typeof(AbstractValidateAttribute), true))
+                {
+                    object[] arrAttr = prop.GetCustomAttributes(typeof(AbstractValidateAttribute), true);
+                    foreach (AbstractValidateAttribute attr in arrAttr)
+                    {
+                        if (!attr.Validate(prop.GetValue(tModel)))
+                        {
+                            return false;
+                        }
+                    }
+                }
+            }
+
+            return true;
         }
 
 

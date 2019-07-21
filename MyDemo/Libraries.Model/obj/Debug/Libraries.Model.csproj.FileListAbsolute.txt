@@ -7,3 +7,12 @@ J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.pdb
 J:\个人demo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.dll
 J:\个人demo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.pdb
 J:\个人demo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csproj.CopyComplete
+J:\Git\MyDemo\MyDemo\Libraries.Model\bin\Debug\Libraries.Model.dll
+J:\Git\MyDemo\MyDemo\Libraries.Model\bin\Debug\Libraries.Model.pdb
+J:\Git\MyDemo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.dll
+J:\Git\MyDemo\MyDemo\Libraries.Model\bin\Debug\ProjectK.Framework.pdb
+J:\Git\MyDemo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csprojAssemblyReference.cache
+J:\Git\MyDemo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csproj.CoreCompileInputs.cache
+J:\Git\MyDemo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.csproj.CopyComplete
+J:\Git\MyDemo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.dll
+J:\Git\MyDemo\MyDemo\Libraries.Model\obj\Debug\Libraries.Model.pdb

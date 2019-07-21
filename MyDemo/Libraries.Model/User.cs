@@ -9,8 +9,10 @@ namespace Libraries.Model
 {
     public class User : BaseModel
     {
+        [Length(1,3)]
         public string Name { get; set; }
 
+        [Long(1,100)]
         public string Account { get; set; }
 
         public string Password { get; set; }
