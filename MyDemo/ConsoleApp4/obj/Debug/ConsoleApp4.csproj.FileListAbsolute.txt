@@ -1,0 +1,7 @@
+J:\个人demo\MyDemo\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+J:\个人demo\MyDemo\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+J:\个人demo\MyDemo\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+J:\个人demo\MyDemo\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+J:\个人demo\MyDemo\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+J:\个人demo\MyDemo\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache

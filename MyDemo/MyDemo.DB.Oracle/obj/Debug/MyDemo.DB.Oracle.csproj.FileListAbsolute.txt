@@ -1,0 +1,5 @@
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.Oracle.dll
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.Oracle.pdb
+J:\个人demo\MyDemo\MyDemo.DB.Oracle\obj\Debug\MyDemo.DB.Oracle.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\MyDemo.DB.Oracle\obj\Debug\MyDemo.DB.Oracle.dll
+J:\个人demo\MyDemo\MyDemo.DB.Oracle\obj\Debug\MyDemo.DB.Oracle.pdb

@@ -1,0 +1,6 @@
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.Interface.dll
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.Interface.pdb
+J:\个人demo\MyDemo\MyDemo.DB.Interface\obj\Debug\MyDemo.DB.Interface.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\MyDemo.DB.Interface\obj\Debug\MyDemo.DB.Interface.dll
+J:\个人demo\MyDemo\MyDemo.DB.Interface\obj\Debug\MyDemo.DB.Interface.pdb
+J:\个人demo\MyDemo\MyDemo.DB.Interface\obj\Debug\MyDemo.DB.Interface.csprojResolveAssemblyReference.cache

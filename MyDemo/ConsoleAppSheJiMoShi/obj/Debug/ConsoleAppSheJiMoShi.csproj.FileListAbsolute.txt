@@ -1,0 +1,6 @@
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\obj\Debug\ConsoleAppSheJiMoShi.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\bin\Debug\ConsoleAppSheJiMoShi.exe.config
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\bin\Debug\ConsoleAppSheJiMoShi.exe
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\bin\Debug\ConsoleAppSheJiMoShi.pdb
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\obj\Debug\ConsoleAppSheJiMoShi.exe
+J:\个人demo\MyDemo\ConsoleAppSheJiMoShi\obj\Debug\ConsoleAppSheJiMoShi.pdb

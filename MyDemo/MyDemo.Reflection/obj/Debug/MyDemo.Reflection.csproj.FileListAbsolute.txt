@@ -1,0 +1,10 @@
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.Reflection.exe.config
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.Reflection.exe
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.Reflection.pdb
+J:\个人demo\MyDemo\MyDemo.Reflection\obj\Debug\MyDemo.Reflection.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\MyDemo.Reflection\obj\Debug\MyDemo.Reflection.exe
+J:\个人demo\MyDemo\MyDemo.Reflection\obj\Debug\MyDemo.Reflection.pdb
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.Interface.pdb
+J:\个人demo\MyDemo\MyDemo.Reflection\obj\Debug\MyDemo.Reflection.csprojResolveAssemblyReference.cache
+J:\个人demo\MyDemo\MyDemo.Reflection\obj\Debug\MyDemo.Reflection.csproj.CopyComplete
+J:\个人demo\MyDemo\MyDemo.Reflection\bin\Debug\MyDemo.DB.MSSQL.pdb

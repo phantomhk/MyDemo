@@ -1,0 +1,12 @@
+J:\个人demo\MyDemo\ProjectK.Framework\bin\Debug\ProjectK.Framework.dll
+J:\个人demo\MyDemo\ProjectK.Framework\bin\Debug\ProjectK.Framework.pdb
+J:\个人demo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.csprojAssemblyReference.cache
+J:\个人demo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.csproj.CoreCompileInputs.cache
+J:\个人demo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.dll
+J:\个人demo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.pdb
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\bin\Debug\ProjectK.Framework.dll
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\bin\Debug\ProjectK.Framework.pdb
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.csprojAssemblyReference.cache
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.csproj.CoreCompileInputs.cache
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.dll
+J:\Git\MyDemo\MyDemo\ProjectK.Framework\obj\Debug\ProjectK.Framework.pdb
